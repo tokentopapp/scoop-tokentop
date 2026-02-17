@@ -1,12 +1,12 @@
 {
-  "version": "0.1.0",
+  "version": "0.2.1",
   "description": "htop for your AI costs - real-time terminal monitoring of LLM token usage",
   "homepage": "https://github.com/tokentopapp/tokentop",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/tokentopapp/tokentop/releases/download/v0.1.0/ttop-windows-x64.exe",
-      "hash": "0000000000000000000000000000000000000000000000000000000000000000"
+      "url": "https://github.com/tokentopapp/tokentop/releases/download/v0.2.1/ttop-windows-x64.exe",
+      "hash": "4cb35ea0a7593973083dfe3de14ce469942ab44f39b143c7fb8379baefc470c6"
     }
   },
   "bin": [["ttop-windows-x64.exe", "ttop"]],
